@@ -9,8 +9,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/inline.021bc09cb6cda091af74.bundle.js",
-        "/main.5971544b8f1e72d7ca54.bundle.js",
+        "/inline.1e7242e8595e64658ff5.bundle.js",
+        "/main.8e5a097beb5266d1b2aa.bundle.js",
         "/polyfills.bf95165a1d5098766b92.bundle.js",
         "/styles.e0d5ae6ec2acd71d293e.bundle.css"
       ],
@@ -34,6 +34,7 @@
         "/assets/icons/ic_menu_black_24dp/web/ic_menu_black_24dp_1x.png",
         "/assets/icons/ic_menu_black_24dp/web/ic_menu_black_24dp_2x.png",
         "/assets/myicons/add.png",
+        "/assets/myicons/img_avatar.png",
         "/assets/myicons/logo.png"
       ],
       "patterns": []
@@ -62,9 +63,9 @@
     }
   ],
   "hashTable": {
-    "/inline.021bc09cb6cda091af74.bundle.js": "e728733203f324bf0ee9098fa24f7b8365387e2c",
+    "/inline.1e7242e8595e64658ff5.bundle.js": "c513819a25cdfbac3201fb75e88953392e30817f",
     "/assets/manifest.json": "460d2ed844e35a431b611071314b19e23cd1fc6e",
-    "/main.5971544b8f1e72d7ca54.bundle.js": "4d21ad397df7a8347b693b4a1530658ace80469b",
+    "/main.8e5a097beb5266d1b2aa.bundle.js": "1883d6815e0fab79e6f3f42dd799a955d4b22699",
     "/assets/icons/ic_menu_black_24dp/android/drawable-hdpi/ic_menu_black_24dp.png": "c9ca4be70a026cb37ff62918cbdf2d6781295386",
     "/polyfills.bf95165a1d5098766b92.bundle.js": "a6f53dc740620bba65b667af8e65beda02dff88a",
     "/assets/icons/ic_menu_black_24dp/android/drawable-mdpi/ic_menu_black_24dp.png": "d301fb069cc7d08af50334b39c18c10c03be2052",
@@ -72,7 +73,7 @@
     "/assets/icons/ic_menu_black_24dp/android/drawable-xhdpi/ic_menu_black_24dp.png": "14f1b18698132d3d4caf1ac051a75909ddcb52a7",
     "/favicon.ico": "52fd6c3666a81684a667fedbcaed49b6c653702c",
     "/assets/icons/ic_menu_black_24dp/android/drawable-xxhdpi/ic_menu_black_24dp.png": "86fac594d1def8cac14b939b7356c4eb47c4780b",
-    "/index.html": "bcc121c1d14777c176a92823afdaad700fbe886c",
+    "/index.html": "519f208306371677d08c07c736418605073bc8f3",
     "/assets/icons/ic_menu_black_24dp/android/drawable-xxxhdpi/ic_menu_black_24dp.png": "d9646fa2f11dd175cab7c2ccbc25a806b8fa4a74",
     "/assets/icons/ic_menu_black_24dp/ios/ic_menu.imageset/Contents.json": "ebdbb03ea5003250d4800eaa1db7d4e150b4657a",
     "/assets/icons/ic_menu_black_24dp/ios/ic_menu.imageset/ic_menu.png": "d301fb069cc7d08af50334b39c18c10c03be2052",
@@ -81,6 +82,7 @@
     "/assets/icons/ic_menu_black_24dp/web/ic_menu_black_24dp_1x.png": "d301fb069cc7d08af50334b39c18c10c03be2052",
     "/assets/icons/ic_menu_black_24dp/web/ic_menu_black_24dp_2x.png": "14f1b18698132d3d4caf1ac051a75909ddcb52a7",
     "/assets/myicons/add.png": "5199139879668308acad69062bb3e63eaaf59144",
+    "/assets/myicons/img_avatar.png": "68be10f1e9c654aea790ad2b5b842328a65de08e",
     "/assets/myicons/logo.png": "72ee72ff75b9fe492200d083062b36e9e1df57e2"
   }
 }
