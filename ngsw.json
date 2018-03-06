@@ -9,8 +9,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/inline.560aebad94bee74697de.bundle.js",
-        "/main.67764d8d7f37d663f3b9.bundle.js",
+        "/inline.bddca24ab19526f3f546.bundle.js",
+        "/main.c9eaf65bac069a2d41d9.bundle.js",
         "/polyfills.bf95165a1d5098766b92.bundle.js",
         "/styles.e0d5ae6ec2acd71d293e.bundle.css"
       ],
@@ -40,32 +40,11 @@
       "patterns": []
     }
   ],
-  "dataGroups": [
-    {
-      "name": "local-api",
-      "patterns": [
-        "http:\\/\\/localhost:5000\\/.*"
-      ],
-      "strategy": "freshness",
-      "maxSize": 100,
-      "maxAge": 86400000,
-      "version": 1
-    },
-    {
-      "name": "giphy-api",
-      "patterns": [
-        "http:\\/\\/api\\.giphy\\.com\\/.*"
-      ],
-      "strategy": "performance",
-      "maxSize": 100,
-      "maxAge": 86400000,
-      "version": 1
-    }
-  ],
+  "dataGroups": [],
   "hashTable": {
-    "/inline.560aebad94bee74697de.bundle.js": "d8b983af9db334c11ba9c26708de03ed8d3e8fca",
+    "/inline.bddca24ab19526f3f546.bundle.js": "636ca29136f02287d004d5163108ae9e3167bb5f",
     "/assets/manifest.json": "460d2ed844e35a431b611071314b19e23cd1fc6e",
-    "/main.67764d8d7f37d663f3b9.bundle.js": "b5425f85480a122591208c91f75e65e6c9173ed8",
+    "/main.c9eaf65bac069a2d41d9.bundle.js": "0ed3cf2894e6a058323a4e99ead8eb42936ab41f",
     "/assets/icons/ic_menu_black_24dp/android/drawable-hdpi/ic_menu_black_24dp.png": "c9ca4be70a026cb37ff62918cbdf2d6781295386",
     "/polyfills.bf95165a1d5098766b92.bundle.js": "a6f53dc740620bba65b667af8e65beda02dff88a",
     "/assets/icons/ic_menu_black_24dp/android/drawable-mdpi/ic_menu_black_24dp.png": "d301fb069cc7d08af50334b39c18c10c03be2052",
@@ -73,7 +52,7 @@
     "/assets/icons/ic_menu_black_24dp/android/drawable-xhdpi/ic_menu_black_24dp.png": "14f1b18698132d3d4caf1ac051a75909ddcb52a7",
     "/favicon.ico": "52fd6c3666a81684a667fedbcaed49b6c653702c",
     "/assets/icons/ic_menu_black_24dp/android/drawable-xxhdpi/ic_menu_black_24dp.png": "86fac594d1def8cac14b939b7356c4eb47c4780b",
-    "/index.html": "e16e3dbd580c8d144c093b1620a0982f5f93c56a",
+    "/index.html": "4e019f87a555acff2bcc22d0eeea2e3996339dd2",
     "/assets/icons/ic_menu_black_24dp/android/drawable-xxxhdpi/ic_menu_black_24dp.png": "d9646fa2f11dd175cab7c2ccbc25a806b8fa4a74",
     "/assets/icons/ic_menu_black_24dp/ios/ic_menu.imageset/Contents.json": "ebdbb03ea5003250d4800eaa1db7d4e150b4657a",
     "/assets/icons/ic_menu_black_24dp/ios/ic_menu.imageset/ic_menu.png": "d301fb069cc7d08af50334b39c18c10c03be2052",
